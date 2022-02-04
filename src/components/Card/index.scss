@@ -1,0 +1,13 @@
+$lol: red;
+
+.card {
+  background: $lol;
+
+  &-title {
+    color: blue;
+  }
+
+  &-description {
+    color: green;
+  }
+}
